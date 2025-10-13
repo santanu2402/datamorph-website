@@ -1,0 +1,71 @@
+.prompt-modal {
+  max-width: 600px;
+}
+
+.prompt-modal h2 {
+  color: var(--text-dark);
+  margin-bottom: 10px;
+  font-size: 1.8rem;
+}
+
+.prompt-modal p {
+  color: var(--text-light);
+  margin-bottom: 30px;
+}
+
+.example-prompts {
+  margin: 20px 0;
+  padding: 20px;
+  background: #f7fafc;
+  border-radius: 8px;
+}
+
+.example-title {
+  font-weight: 600;
+  color: var(--text-dark);
+  margin-bottom: 12px;
+  font-size: 0.9rem;
+}
+
+.example-prompt {
+  padding: 12px;
+  background: white;
+  border: 2px solid #e2e8f0;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  font-size: 0.9rem;
+  color: var(--text-light);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.example-prompt:hover {
+  border-color: var(--primary-purple);
+  color: var(--primary-purple);
+  transform: translateX(5px);
+}
+
+.example-prompt:last-child {
+  margin-bottom: 0;
+}
+
+.loading-spinner-small {
+  display: inline-block;
+  border: 2px solid #f3f3f3;
+  border-top: 2px solid var(--primary-purple);
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  animation: spin 1s linear infinite;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.btn-primary:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.btn-primary:disabled:hover {
+  transform: none;
+}
