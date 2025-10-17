@@ -343,7 +343,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/santanu-mandal-346a41238">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="Santanu Mandal"/><br />
+        <img src="https://drive.google.com/file/d/1aIPVq7dc1temkQUilororu0xPpmrat4i/preview" width="100px;" alt="Santanu Mandal"/><br />
         <sub><b>Santanu Mandal</b></sub>
       </a><br />
       <sub>Lead Developer</sub>
@@ -388,7 +388,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: [/docs](./docs)
 - **Issues**: [GitHub Issues](https://github.com/yourusername/datamorph-website/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/datamorph-website/discussions)
-- **Email**: team@datamorph.com
+- **Email**: thinkerselastic@gmail.com
 
 ---
 
