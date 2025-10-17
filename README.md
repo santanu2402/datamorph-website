@@ -343,28 +343,28 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/santanu-mandal-346a41238">
-        <img src="https://drive.google.com/file/d/1aIPVq7dc1temkQUilororu0xPpmrat4i/view" width="100px;" alt="Santanu Mandal"/><br />
+        <img src="https://asset.cloudinary.com/dxrufinml/131acf40dfee7ad195593776efced8e6" width="100px;" alt="Santanu Mandal"/><br />
         <sub><b>Santanu Mandal</b></sub>
       </a><br />
       <sub>Lead Developer</sub>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/tanmana-das-b9b533229">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="Tanmana Das"/><br />
+        <img src="https://asset.cloudinary.com/dxrufinml/1eed2530dd9a26ec8d2dcfefc077974c" width="100px;" alt="Tanmana Das"/><br />
         <sub><b>Tanmana Das</b></sub>
       </a><br />
       <sub>Developer</sub>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/anuska-paul-84b48b261">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="Anuska Paul"/><br />
+        <img src="https://asset.cloudinary.com/dxrufinml/795863fc624bca73850cdd50b5077231" width="100px;" alt="Anuska Paul"/><br />
         <sub><b>Anuska Paul</b></sub>
       </a><br />
       <sub>Developer</sub>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/srinjoy-roychowdhury-7912b11b8">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="Srinjoy Roychowdhury"/><br />
+        <img src="https://asset.cloudinary.com/dxrufinml/60abbf20d279b100bbb2075ce1b2e48d" width="100px;" alt="Srinjoy Roychowdhury"/><br />
         <sub><b>Srinjoy Roychowdhury</b></sub>
       </a><br />
       <sub>Developer</sub>
