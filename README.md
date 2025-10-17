@@ -358,7 +358,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <td align="center">
       <a href="https://www.linkedin.com/in/anuska-paul-84b48b261">
         <img src="https://res.cloudinary.com/dxrufinml/image/upload/v1760683013/anuska-circular-profile-picture_v13xr5.png" width="100px;" alt="Anuska Paul"/><br />
-        <sub><b>Anuska Paul</b></sub>
+        <sub><b>Anuska Paul</sub>
       </a><br />
       <sub>Developer</sub>
     </td>
