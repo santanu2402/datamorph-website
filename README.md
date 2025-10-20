@@ -11,7 +11,7 @@
 
 **Transform Natural Language into Production-Ready ETL Pipelines in Seconds**
 
-[Live Demo](#-live-demo) • [Features](#-features) • [Quick Start](#-quick-start) • [Documentation](#-documentation) • [Team](#-team)
+[Features](#-features) • [Quick Start](#-quick-start) • [Documentation](#-documentation) • [Team](#-team)
 
 </div>
 
@@ -211,22 +211,6 @@ Comprehensive documentation is available in the `/docs` folder:
 - **[TECHNICAL_SPECS.md](./docs/TECHNICAL_SPECS.md)** - Technical specifications
 - **[BUSINESS_VALUE.md](./docs/BUSINESS_VALUE.md)** - Business value and ROI
 - **[DEPLOYMENT.md](./DEPLOYMENT.md)** - Deployment guide
-
----
-
-## 🎨 Screenshots
-
-### Homepage
-![Homepage](./docs/images/homepage-screenshot.png)
-*Modern landing page with feature showcase*
-
-### ETL Workflow
-![ETL Workflow](./docs/images/workflow-screenshot.png)
-*Natural language prompt submission*
-
-### Logs Viewer
-![Logs Viewer](./docs/images/logs-screenshot.png)
-*Real-time log monitoring with code display*
 
 ---
 
